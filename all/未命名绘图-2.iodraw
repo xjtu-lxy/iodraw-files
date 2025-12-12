@@ -22,6 +22,9 @@
         <mxCell id="EJLNMi5iR6uGTfh1pvfi-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;确定课题研究方向以及工作内容&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="176" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EJLNMi5iR6uGTfh1pvfi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJLNMi5iR6uGTfh1pvfi-3" target="EJLNMi5iR6uGTfh1pvfi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EJLNMi5iR6uGTfh1pvfi-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;查找专利&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="333" width="120" height="60" as="geometry" />
         </mxCell>
@@ -32,10 +35,10 @@
           <mxGeometry x="571" y="333" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJLNMi5iR6uGTfh1pvfi-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="528" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJLNMi5iR6uGTfh1pvfi-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="685" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="624" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EJLNMi5iR6uGTfh1pvfi-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="816" width="120" height="60" as="geometry" />
