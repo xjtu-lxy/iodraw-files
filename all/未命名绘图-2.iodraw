@@ -61,6 +61,9 @@
         <mxCell id="EJLNMi5iR6uGTfh1pvfi-6" value="确定开展方式、实验、算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="495" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EJLNMi5iR6uGTfh1pvfi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJLNMi5iR6uGTfh1pvfi-11" target="EJLNMi5iR6uGTfh1pvfi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EJLNMi5iR6uGTfh1pvfi-11" value="论文写作、投稿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="602" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,8 +73,8 @@
         <mxCell id="EJLNMi5iR6uGTfh1pvfi-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="962" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EJLNMi5iR6uGTfh1pvfi-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="268" y="712" width="186" height="80" as="geometry" />
+        <mxCell id="EJLNMi5iR6uGTfh1pvfi-21" value="审稿人是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="708" width="186" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
