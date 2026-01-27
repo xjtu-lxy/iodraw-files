@@ -13,6 +13,9 @@
         <mxCell id="HMq3blvOZxZVcBdXh0bQ-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="122" y="226" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HMq3blvOZxZVcBdXh0bQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="209" y="236" width="66" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
