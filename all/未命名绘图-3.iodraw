@@ -49,8 +49,11 @@
         <mxCell id="Cyr3UGW1wsbJjlnCUDsz-9" value="阵列化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="441" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-14" value="信号处理以及补偿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-15" value="信号处理以及补偿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="565" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
