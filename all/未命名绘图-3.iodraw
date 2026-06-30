@@ -22,7 +22,7 @@
         <mxCell id="Cyr3UGW1wsbJjlnCUDsz-3" value="流场传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="136" y="305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-4" value="电场传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="568" y="305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
