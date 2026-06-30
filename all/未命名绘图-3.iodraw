@@ -13,14 +13,17 @@
         <mxCell id="Cyr3UGW1wsbJjlnCUDsz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Cyr3UGW1wsbJjlnCUDsz-1" target="Cyr3UGW1wsbJjlnCUDsz-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Cyr3UGW1wsbJjlnCUDsz-1" target="Cyr3UGW1wsbJjlnCUDsz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cyr3UGW1wsbJjlnCUDsz-1" value="流电复合传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="219" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-3" value="流场传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="136" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cyr3UGW1wsbJjlnCUDsz-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="561" y="305" width="120" height="60" as="geometry" />
+          <mxGeometry x="568" y="305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
