@@ -18,11 +18,6 @@
         <mxCell id="Cyr3UGW1wsbJjlnCUDsz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Cyr3UGW1wsbJjlnCUDsz-1" target="Cyr3UGW1wsbJjlnCUDsz-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cyr3UGW1wsbJjlnCUDsz-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cyr3UGW1wsbJjlnCUDsz-5">
-          <mxGeometry x="-0.162" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Cyr3UGW1wsbJjlnCUDsz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Cyr3UGW1wsbJjlnCUDsz-1" target="Cyr3UGW1wsbJjlnCUDsz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
